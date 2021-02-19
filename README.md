@@ -4,7 +4,7 @@ A selection of ASCII Fonts from www.figlet.org/
 
 <a name="toc"></a>
 
-## [Table](Table.flf)  of Content
+## Table of Content
 
 1. [5lineoblique](#5lineoblique)
 1. [big](#big)
@@ -31,7 +31,7 @@ A selection of ASCII Fonts from www.figlet.org/
 
 <a name="5lineoblique"></a>
 
-## [5lineoblique](5lineoblique.flf)  [↸](#toc)
+## [5lineoblique](fonts/5lineoblique.flf)  [↸](#toc)
 
 unknown, 1995/01
 
@@ -39,7 +39,7 @@ unknown, 1995/01
 
 <a name="big"></a>
 
-## [big](big.flf)  [↸](#toc)
+## [big](fonts/big.flf)  [↸](#toc)
 
 Glenn Chappell,	1993/04 
 
@@ -47,7 +47,7 @@ Glenn Chappell,	1993/04
 
 <a name="block"></a>
 
-## [block](block.flf)  [↸](#toc)
+## [block](fonts/block.flf)  [↸](#toc)
 
 Glenn Chappell,	1993/04
 
@@ -55,7 +55,7 @@ Glenn Chappell,	1993/04
 
 <a name="bubble"></a>
 
-## [bubble](bubble.flf)  [↸](#toc)
+## [bubble](fonts/bubble.flf)  [↸](#toc)
 
 Glenn Chappell,	1993/04
 
@@ -63,7 +63,7 @@ Glenn Chappell,	1993/04
 
 <a name="bulbhead"></a>
 
-## [bulbhead](bulbhead.flf)  [↸](#toc)
+## [bulbhead](fonts/bulbhead.flf)  [↸](#toc)
 
 Jef Poskanzer,	1994/06 
 
@@ -71,7 +71,7 @@ Jef Poskanzer,	1994/06
 
 <a name="digital"></a>
 
-## [digital](digital.flf)  [↸](#toc)
+## [digital](fonts/digital.flf)  [↸](#toc)
 
 Glenn Chappell,	1994/01
 
@@ -79,7 +79,7 @@ Glenn Chappell,	1994/01
 
 <a name="doh"></a>
 
-## [doh](doh.flf)  [↸](#toc)
+## [doh](fonts/doh.flf)  [↸](#toc)
 
 Curtis Wanner,	1995/04
 
@@ -87,7 +87,7 @@ Curtis Wanner,	1995/04
 
 <a name="doom"></a>
 
-## [doom](doom.flf)  [↸](#toc)
+## [doom](fonts/doom.flf)  [↸](#toc)
 
 Frans P. de Vries,	1996/06
 
@@ -95,7 +95,7 @@ Frans P. de Vries,	1996/06
 
 <a name="dotmatrix"></a>
 
-## [dotmatrix](dotmatrix.flf)  [↸](#toc)
+## [dotmatrix](fonts/dotmatrix.flf)  [↸](#toc)
 
 Curtis Wanner,	1995/08
 
@@ -103,7 +103,7 @@ Curtis Wanner,	1995/08
 
 <a name="epic"></a>
 
-## [epic](epic.flf)  [↸](#toc)
+## [epic](fonts/epic.flf)  [↸](#toc)
 
 Claude Martins,	1994/12
 
@@ -111,7 +111,7 @@ Claude Martins,	1994/12
 
 <a name="isometric3"></a>
 
-## [isometric3](isometric3.flf)  [↸](#toc)
+## [isometric3](fonts/isometric3.flf)  [↸](#toc)
 
 Kent Nassen,	1994/10
 
@@ -119,7 +119,7 @@ Kent Nassen,	1994/10
 
 <a name="larry3d"></a>
 
-## [larry3d](larry3d.flf)  [↸](#toc)
+## [larry3d](fonts/larry3d.flf)  [↸](#toc)
 
 Larry Gelberg,	1994/02
 
@@ -127,7 +127,7 @@ Larry Gelberg,	1994/02
 
 <a name="lean"></a>
 
-## [lean](lean.flf)  [↸](#toc)
+## [lean](fonts/lean.flf)  [↸](#toc)
 
 Glenn Chappell,	1993/04
 
@@ -135,7 +135,7 @@ Glenn Chappell,	1993/04
 
 <a name="nancy"></a>
 
-## [nancy](nancy.flf)jj-fancy [↸](#toc)
+## [nancy](fonts/nancy.flf)jj-fancy [↸](#toc)
 
 Eamon Daly
 
@@ -143,7 +143,7 @@ Eamon Daly
 
 <a name="nipples"></a>
 
-## [nipples](nipples.flf)  [↸](#toc)
+## [nipples](fonts/nipples.flf)  [↸](#toc)
 
 Ron Fritz,	1994/08
 
@@ -151,7 +151,7 @@ Ron Fritz,	1994/08
 
 <a name="puffy"></a>
 
-## [puffy](puffy.flf)  [↸](#toc)
+## [puffy](fonts/puffy.flf)  [↸](#toc)
 
 Juan Car,	1994/03
 
@@ -159,7 +159,7 @@ Juan Car,	1994/03
 
 <a name="rectangles"></a>
 
-## [rectangles](rectangles.flf)  [↸](#toc)
+## [rectangles](fonts/rectangles.flf)  [↸](#toc)
 
 David Villegas,	1994/12
 
@@ -167,7 +167,7 @@ David Villegas,	1994/12
 
 <a name="small"></a>
 
-## [small](small.flf)  [↸](#toc)
+## [small](fonts/small.flf)  [↸](#toc)
 
 Glenn Chappell,	1996/03
 
@@ -175,7 +175,7 @@ Glenn Chappell,	1996/03
 
 <a name="smkeyboard"></a>
 
-## [smkeyboard](smkeyboard.flf)  [↸](#toc)
+## [smkeyboard](fonts/smkeyboard.flf)  [↸](#toc)
 
 Kent Nassen,	1994/11
 
@@ -183,7 +183,7 @@ Kent Nassen,	1994/11
 
 <a name="standard"></a>
 
-## [standard](standard.flf)  [↸](#toc)
+## [standard](fonts/standard.flf)  [↸](#toc)
 
 Glenn Chappell & Ian Chai,	1993/03
 
@@ -191,7 +191,7 @@ Glenn Chappell & Ian Chai,	1993/03
 
 <a name="starwars"></a>
 
-## [starwars](starwars.flf)  [↸](#toc)
+## [starwars](fonts/starwars.flf)  [↸](#toc)
 
 Ryan Youck,	1994/12
 
@@ -199,7 +199,7 @@ Ryan Youck,	1994/12
 
 <a name="straight"></a>
 
-## [straight](straight.flf)  [↸](#toc)
+## [straight](fonts/straight.flf)  [↸](#toc)
 
 Bas Meijer
 
