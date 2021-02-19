@@ -80,11 +80,11 @@ Glenn Chappell,	1993/04
 
 ![](fonts/lean.svg)
 
-## nancyj
+## nancyj-fancy
 
--fancy	Eamon Daly
+Eamon Daly
 
-![](fonts/nancyj.svg)
+![](fonts/nancyj-fancy.svg)
 
 ## nipples
 
